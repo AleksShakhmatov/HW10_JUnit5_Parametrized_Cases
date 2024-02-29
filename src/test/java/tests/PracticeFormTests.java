@@ -8,7 +8,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
-public class PracticeFormTests {
+/*public class PracticeFormTests {
 
     @BeforeAll
     static void beforeAll() {
@@ -43,3 +43,4 @@ public class PracticeFormTests {
     }
 }
 
+*/

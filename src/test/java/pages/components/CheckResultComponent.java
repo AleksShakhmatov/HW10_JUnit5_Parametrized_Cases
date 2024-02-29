@@ -1,3 +1,4 @@
+/*
 package pages.components;
 
 import static com.codeborne.selenide.Condition.text;
@@ -11,3 +12,4 @@ public class CheckResultComponent {
                 shouldHave(text(value));
     }
 }
+*/

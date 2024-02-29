@@ -1,3 +1,4 @@
+/*
 package pages.components;
 
 import static com.codeborne.selenide.Selenide.$;
@@ -8,3 +9,4 @@ public class CalendarComponent {
         $(".react-datepicker__day--0"+day).click();
     }
 }
+*/

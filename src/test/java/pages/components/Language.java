@@ -1,9 +1,10 @@
+/*
 package pages.components;
 
-@SuppressWarnings("NonAsciiCharacters")
+
 public enum Language {
-    Russian("Одна цена"),
-    English("Sign in to VK");
+    RU("Одна цена"),
+    EN("One Price");
 
     public final String description;
 
@@ -11,3 +12,4 @@ public enum Language {
         this.description = description;
     }
 }
+*/
